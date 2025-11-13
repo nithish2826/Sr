@@ -1,0 +1,18 @@
+ @import "tailwindcss";
+  
+   
+
+ .img1{
+    background-image: url("https://images.ctfassets.net/rz1oowkt5gyp/7lpUSxVqNRggpqzCNcnfo1/04cf35d0a0ef60e18c6575eb9a0374e4/inbox-slider.png?w=1440&fm=webp");
+ }
+ .boxshadow{
+    box-shadow: 0px 0px 8px black;
+    
+ }
+
+ .img2{
+    background-image: url("https://images.ctfassets.net/rz1oowkt5gyp/w3lwhF5VUl2zPrQhoo6zi/87076ead73cad0973c907db1960bacfc/board-slider.png?w=540");
+ }
+ .img3{
+    background-image: url("https://images.ctfassets.net/rz1oowkt5gyp/2CRH0gvg9NCw6tdLBHIBQy/eee39403406317dc1fc841bf3f685245/planner-slider.png?w=1440&fm=webp");
+ }
